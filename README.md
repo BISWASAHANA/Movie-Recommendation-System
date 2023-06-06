@@ -36,9 +36,13 @@ between the research papers and the term. It is helpful in implementing the mode
 cosine similarity formula and recommend the string similar to the user choice by analyzing
 his patterns of writing with that of the stated other given string. When two or more movies of
 some different genres come it becomes hard for Sublime Text to understand.
+
 ● It gives the results of similar movies related to my applied set of movies.
+
 ● It is confined to providing the results with the help of cosine similarity formula and
 count vectorizer.
+
 ● It provides the output of movies with the help of datasets governed through csv files.
+
 ● Not confined to provide advanced hybrid string matching elements solutions and
 responses.
